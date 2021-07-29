@@ -13,4 +13,4 @@
 [Apps](https://doc.ihub.pub/apps)
 [GitHub](https://github.com/ihub-pub)
 
-<!-- ![](https://api.yimian.xyz/img?type=wallpaper) -->
+![](https://api.yimian.xyz/img?type=wallpaper)
