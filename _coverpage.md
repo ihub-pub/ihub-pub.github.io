@@ -8,9 +8,9 @@
 - Libs：组件库
 - Apps：应用库
 
-[Plugins](/plugins)
-[Libs](/libs)
-[Apps](/apps)
+[Plugins](https://doc.ihub.pub/plugins)
+[Libs](https://doc.ihub.pub/libs)
+[Apps](https://doc.ihub.pub/apps)
 [IHub](https://ihub.pub)
 
 ![](https://api.yimian.xyz/img?type=wallpaper)
