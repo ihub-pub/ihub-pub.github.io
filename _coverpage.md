@@ -1,4 +1,4 @@
-![logo](ihub.png)
+![logo](icon.svg)
 
 # IHub <small>0.0.1</small>
 
