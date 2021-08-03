@@ -13,4 +13,4 @@
 [Apps](https://doc.ihub.pub/apps)
 [IHub](https://ihub.pub)
 
-![](https://api.yimian.xyz/img?type=wallpaper)
+![](https://api.sunweihu.com/api/bing1/api.php)
