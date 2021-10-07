@@ -13,4 +13,4 @@
 [Apps](https://doc.ihub.pub/apps)
 [IHub](https://ihub.pub)
 
-![](https://api.sunweihu.com/api/bing1/api.php)
+![](https://www.coolku.cc/api/bing/mo.php)
