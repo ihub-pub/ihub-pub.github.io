@@ -21,10 +21,10 @@
 		<img src="https://img.shields.io/badge/CSDN-E6162D.svg?style=flat&logoColor=white" alt="CSDN"/>
 	</a>
 	<a target="_blank" href="https://plugins.gradle.org/plugin/pub.ihub.plugin">
-		<img src="https://img.shields.io/maven-metadata/v?color=white&label=IHub+Plugins&labelColor=02303A&logo=Gradle&metadataUrl=https%3A%2F%2Fplugins.gradle.org%2Fm2%2Fpub%2Fihub%2Fplugin%2Fihub-plugins%2Fmaven-metadata.xml" alt="IHub Plugins Gradle Plugin"/>
+		<img src="https://img.shields.io/maven-metadata/v?color=white&label=Plugins&labelColor=02303A&logo=Gradle&metadataUrl=https%3A%2F%2Fplugins.gradle.org%2Fm2%2Fpub%2Fihub%2Fplugin%2Fihub-plugins%2Fmaven-metadata.xml" alt="IHub Plugins Gradle Plugin"/>
 	</a>
 	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.lib">
-		<img src="https://img.shields.io/maven-central/v/pub.ihub.lib/ihub-bom?color=white&label=IHub+Libs&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
+		<img src="https://img.shields.io/maven-central/v/pub.ihub.lib/ihub-bom?color=white&label=Libs&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
 	</a>
 </p>
 
