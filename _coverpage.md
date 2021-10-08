@@ -1,12 +1,10 @@
 ![logo](icon.svg)
 
-# IHub <small>0.0.1</small>
+# IHub <small>工欲善其事，必先利其器</small>
 
-> 工欲善其事，必先利其器
+> ⚔一套用于简化开发的神兵利器⚔
 
-- Plugins：插件库
-- Libs：组件库
-- Apps：应用库
+- <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub" alt="IHubPub"/>
 
 [Plugins](https://doc.ihub.pub/plugins)
 [Libs](https://doc.ihub.pub/libs)
