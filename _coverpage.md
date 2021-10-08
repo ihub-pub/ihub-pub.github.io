@@ -11,15 +11,6 @@
 	<a target="_blank" href="https://gitee.com/ihub-pub">
 		<img src="https://img.shields.io/badge/Gitee-C71D23.svg?style=flat&logo=Gitee" alt="IHubPub"/>
 	</a>
-	<a target="_blank" href="https://ihub.pub">
-		<img src="https://img.shields.io/badge/Blog-FF5722.svg?style=flat&logo=Blogger&logoColor=white" alt="IHub"/>
-	</a>
-	<a target="_blank" href="https://doc.ihub.pub">
-		<img src="https://img.shields.io/badge/Docs-8CA1AF.svg?style=flat&logo=Read+the+Docs&logoColor=white" alt="Docs"/>
-	</a>
-	<a target="_blank" href="https://gitter.im/ihub-pub/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
-		<img src="https://img.shields.io/badge/Gitter-45af90.svg?style=flat&logo=Gitter&logoColor=white" alt="Chat On Gitter"/>
-	</a>
 	<a target="_blank" href="https://weibo.com/ihubpub">
 		<img src="https://img.shields.io/badge/微博-E6162D.svg?style=flat&logo=Sina+Weibo&logoColor=white" alt="Sina Weibo"/>
 	</a>
