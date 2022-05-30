@@ -33,4 +33,4 @@
 [Apps](https://doc.ihub.pub/apps)
 [IHub](https://ihub.pub)
 
-![](https://www.coolku.cc/api/bing/mo.php)
+![](https://bing.img.run/1920x1080.php)
