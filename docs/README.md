@@ -5,14 +5,14 @@ heroText: IHub
 tagline: 工欲善其事，必先利其器
 actions:
   - text: Plugins
-    link: /plugins/
-    type: primary
+    link: https://doc.ihub.pub/plugins/
+    type: secondary
   - text: Libs
-    link: /libs/
-    type: primary
+    link: https://doc.ihub.pub/libs/
+    type: secondary
   - text: Apps
-    link: /apps/
-    type: primary
+    link: https://doc.ihub.pub/apps/
+    type: secondary
 # features:
 # - title: Plugins
 #   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
