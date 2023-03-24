@@ -1,6 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import { defaultTheme } from '@vuepress/theme-default'
+import {hopeTheme} from "vuepress-theme-hope";
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -11,7 +11,10 @@ export default defineUserConfig({
     ['meta', { name: 'keywords', content: 'ihub,java,groovy,gradle,maven,插件,组件,plugins,libs,技术,博客' }]
   ],
 
-  theme: defaultTheme({
+  theme: hopeTheme({
+    hostname: "https://doc.ihub.pub/",
+    iconAssets: "iconify",
+    breadcrumb: false,
     logo: '/ihub.png',
     logoDark: 'ihub_white.png',
     repo: 'ihub-pub',
@@ -21,14 +24,10 @@ export default defineUserConfig({
     lastUpdated: false,
     contributors: false,
     navbar: [
-      {
-        text: 'IHub',
-        link: 'https://ihub.pub',
-      },
-      {
-        text: 'Gitee',
-        link: 'https://gitee.com/ihub-pub',
-      },
+      {text: "ihub.pub", icon: "material-symbols:link", link: "https://ihub.pub/"},
+      {text: "ihub_pub", icon: "mdi:twitter", link: "https://twitter.com/ihub_pub/"},
+      {text: "henry@ihub.pub", icon: "material-symbols:alternate-email", link: "mailto:henry@ihub.pub"},
+      {text: "ihub-pub", icon: "simple-icons:gitee", link: "https://gitee.com/ihub-pub/"},
     ],
   }),
   
