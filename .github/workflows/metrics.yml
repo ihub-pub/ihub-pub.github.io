@@ -28,7 +28,6 @@ jobs:
           filename: docs/.vuepress/public/github-metrics.svg
           template: classic
           base: header, activity, community, repositories
-          config_display: large
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
