@@ -1,8 +1,11 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "* */8 * * *"}]
+  workflow_run:
+    workflows: [docs]
+    types: [completed]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
 jobs:
@@ -25,7 +28,7 @@ jobs:
 
           # Options
           user: ihub-pub
-          filename: docs/.vuepress/public/github-metrics.svg
+          committer_branch: gh-pages
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
