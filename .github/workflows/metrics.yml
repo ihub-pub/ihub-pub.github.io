@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "* */8 * * *"}]
+  # Schedule updates (ever 8 hours)
+  schedule: [{cron: "0 */8 * * *"}]
   workflow_run:
     workflows: [docs]
     types: [completed]
